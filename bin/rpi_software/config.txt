@@ -1,0 +1,16 @@
+[Settings_UWOS]
+output_file = video.h264
+width = 1920
+height = 1080
+framerate = 30
+codec = h264
+bitrate = 10000000
+nopreview = True
+disable_display = True
+mission_name = LENGA_04082025
+
+[Settings_QHB]
+Shutdown_Duration=50		
+Preparing_Duration=20		
+Recording_Duration=60		
+Stopping_Duration=10       
